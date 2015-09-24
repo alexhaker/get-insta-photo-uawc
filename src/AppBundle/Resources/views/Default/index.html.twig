@@ -1,0 +1,33 @@
+{% extends 'AppBundle::base.html.twig' %}
+
+{% block body %}
+	<div id="wizard">
+		<h3>Search user & select photos</h3>
+		<section>
+			<div class="clearfix">
+				<div id="search-user-box">
+					Search user: 
+					<select name="insta-user" id="insta-user">
+						  <option value="-1" selected="selected">Search instagram user</option>
+					</select>
+				</div>
+				<div id="select-source-box">
+					Get photos from:
+					<select name="photo-source" id="photo-source">
+						<option value="1">user profile</option>
+						<option value="2">user feed</option>
+					</select>
+				</div>
+			</div>
+			<div id="photos">
+				<select id="image-picker" >
+
+				</select>
+			</div>
+		</section>
+		<h3>Get result</h3>
+		<section>
+			
+		</section>
+	</div>
+{% endblock %}

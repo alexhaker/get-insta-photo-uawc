@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/uawc.dip-lab.com/webstat"
+AuthUserFile /var/www/diplab/data/etc/1189478.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

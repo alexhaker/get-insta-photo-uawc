@@ -1,0 +1,431 @@
+AWSTATS DATA FILE 7.1 (build 1.983)
+# If you remove this file, all statistics for date 201509 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.uawc.dip-lab.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1996                
+POS_TIME 2673                
+POS_VISITOR 6451                
+POS_DAY 6657                
+POS_DOMAIN 3290                
+POS_LOGIN 3522                
+POS_ROBOT 3677                
+POS_WORMS 3840                
+POS_EMAILSENDER 3971                
+POS_EMAILRECEIVER 4114                
+POS_SESSION 6817                
+POS_SIDER 6969                
+POS_FILETYPES 4249                
+POS_DOWNLOADS 4414                
+POS_OS 4462                
+POS_BROWSER 4559                
+POS_SCREENSIZE 4695                
+POS_UNKNOWNREFERER 4769                
+POS_UNKNOWNREFERERBROWSER 4856                
+POS_ORIGIN 4938                
+POS_SEREFERRALS 5077                
+POS_PAGEREFS 5221                
+POS_SEARCHWORDS 5369                
+POS_KEYWORDS 5521                
+POS_MISC 2336                
+POS_ERRORS 5580                
+POS_CLUSTER 3378                
+POS_SIDER_404 5695                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150916032807 26 6000 15595617974636
+FirstTime 20150913094248
+LastTime 20150916032807
+LastUpdate 20150924050104 0 0 0 0 0
+TotalVisits 5                   
+TotalUnique 2                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 2                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 39 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 14 25 312443 0 1 6518
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 1 10 220294 6 7 6998
+7 1 10 1403 1 2 6598
+8 0 0 0 0 0 0
+9 4 4 934 0 1 0
+10 23 41 1756335 3 4 62314
+11 61 109 3508388 13 19 1242444
+12 102 296 2442413 3 20 264217
+13 124 491 4537582 3 13 628169
+14 104 278 2489313 13 22 462215
+15 128 506 2837029 43 43 20253
+16 162 332 6637943 6 7 537388
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 1 1 1403
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 724 2102 24744077
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+yandex 2 1509 20150914204712 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 764 271089 0 0
+php 163 2321528 0 0
+html 29 274432 0 0
+js 614 837197 0 0
+Unknown 532 21039831 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 2
+winvista 1449 484
+linux 653 240
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 4
+chrome45.0.2454.85 630 231
+firefox40.0 1 1
+opera9.80 23 9
+chrome45.4.2454.18 1448 483
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 189 196
+From1 0 0
+From2 0 0
+From3 0 0
+From4 535 1906
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 11 880
+500 28 2581135
+404 59 400791
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 8
+/search-user 6 -
+/app_dev.php//get-user-photo 2 -
+/bundles/app/js/jquery-1.11.3.min.js 1 http://uawc.dip-lab.com/app_dev.php
+/bundles/app/js/init.js 1 http://uawc.dip-lab.com/app_dev.php
+/bundles/app/css/styles.css 4 http://uawc.dip-lab.com/app_dev.php
+/app_dev.php/[object%20Object] 1 http://uawc.dip-lab.com/app_dev.php/
+/undefined 43 http://uawc.dip-lab.com/app_dev.php
+/bundles/app/js/jquery.steps.min.js 1 http://uawc.dip-lab.com/app_dev.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 2
+95.158.36.57 484 1449 13371564 20150913165328
+88.85.84.209 240 653 11372513 20150916032807 20150916032339 /app_dev.php/get-user-photo
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20150913 484 1449 13371564 1
+20150914 1 10 220294 1
+20150915 225 618 10839776 2
+20150916 14 25 312443 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+1h+ 2
+0s-30s 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 182
+/app_dev.php/search-user 278 4772891 0 0
+/app_dev.php 163 2321528 0 0
+/app_dev.php/get-user-photo 72 10540415 0 2
+/app_dev.php/ 15 241894 0 0
+/ 14 32538 4 2
+/app_dev.php/get-feed-photo 6 12 1 0
+/app_dev.php/_wdt/7946b7 1 31979 0 0
+/app_dev.php/_wdt/fa0e76 1 31975 0 0
+/app_dev.php/_wdt/644fa3 1 31979 0 0
+/app_dev.php/_wdt/d550db 1 33043 0 0
+/app_dev.php/_wdt/ac8344 1 31976 0 0
+/app_dev.php/_wdt/212d46 1 33062 0 0
+/app_dev.php/_wdt/143adb 1 31979 0 0
+/app_dev.php/_wdt/c1f616 1 31979 0 0
+/app_dev.php/_wdt/7edec7 1 31975 0 0
+/app_dev.php/_wdt/00e818 1 31979 0 0
+/app_dev.php/_wdt/d3df9f 1 31979 0 0
+/app_dev.php/_wdt/4755c9 1 33084 0 0
+/app_dev.php/_wdt/92506e 1 31975 0 0
+/app_dev.php/_wdt/b83218 1 31979 0 0
+/app_dev.php/_wdt/44776b 1 31975 0 0
+/app_dev.php/_wdt/5ff15a 1 31975 0 0
+/app_dev.php/_wdt/0238c3 1 31975 0 0
+/app_dev.php/_wdt/3d7db1 1 31975 0 0
+/app_dev.php/_wdt/74ee3e 1 31979 0 0
+/app_dev.php/_wdt/b6c9f0 1 31975 0 0
+/app_dev.php/_wdt/c5bf9d 1 31979 0 0
+/app_dev.php/_wdt/bf138d 1 31975 0 0
+/app_dev.php/_wdt/83807a 1 31976 0 0
+/app_dev.php/_wdt/8f83bd 1 31975 0 0
+/app_dev.php/_wdt/35d570 1 31975 0 0
+/app_dev.php/_wdt/b1efe4 1 33043 0 0
+/app_dev.php/_wdt/d1886d 1 33071 0 0
+/app_dev.php/_wdt/ee1f06 1 33062 0 0
+/app_dev.php/_wdt/b6826c 1 31975 0 0
+/app_dev.php/_wdt/5a06bf 1 31979 0 0
+/app_dev.php/_wdt/0a5b4c 1 31975 0 0
+/app_dev.php/_wdt/385f5d 1 31979 0 0
+/app_dev.php/_wdt/7e3670 1 31979 0 0
+/app_dev.php/_wdt/5f3e23 1 31975 0 0
+/app_dev.php/_wdt/c0ca7d 1 31979 0 0
+/app_dev.php/_wdt/e91031 1 31979 0 0
+/app_dev.php/_wdt/d5afcf 1 31979 0 0
+/app_dev.php/_wdt/646106 1 31975 0 0
+/app_dev.php/_wdt/381308 1 31975 0 0
+/app_dev.php/_wdt/4f893e 1 31975 0 0
+/app_dev.php/_wdt/225e4d 1 31979 0 0
+/app_dev.php/_wdt/01cc0c 1 31975 0 0
+/app_dev.php/_wdt/5fcb1e 1 31975 0 0
+/app_dev.php/_wdt/3b1d73 1 31979 0 0
+/app_dev.php/_wdt/f27fa8 1 31975 0 0
+/app_dev.php/_wdt/e66be1 1 31979 0 0
+/app_dev.php/_wdt/5c6cd3 1 31975 0 0
+/app_dev.php/_wdt/520e6b 1 31979 0 0
+/app_dev.php/_wdt/ab5133 1 33067 0 0
+/app_dev.php/_wdt/dd4d04 1 33071 0 0
+/app_dev.php/_wdt/adad78 1 31975 0 0
+/app_dev.php/_wdt/063714 1 33064 0 0
+/app_dev.php/_wdt/61e901 1 31975 0 0
+/app_dev.php/_wdt/7f0870 1 31979 0 0
+/app_dev.php/_wdt/57be4b 1 31975 0 0
+/app_dev.php/_wdt/4c7f64 1 31979 0 0
+/app_dev.php/_wdt/b86b11 1 31975 0 0
+/app_dev.php/_wdt/f14c66 1 31979 0 0
+/app_dev.php/_wdt/75c0d9 1 31975 0 0
+/app_dev.php/_wdt/e58e9a 1 31975 0 0
+/app_dev.php/_wdt/b91528 1 31979 0 0
+/app_dev.php/_wdt/c6ca36 1 32119 0 0
+/app_dev.php/_wdt/58b401 1 33084 0 0
+/app_dev.php/_wdt/d80ee3 1 31979 0 0
+/app_dev.php/_wdt/36f891 1 33043 0 0
+/app_dev.php/_wdt/f5384a 1 31975 0 0
+/app_dev.php/_wdt/dfad41 1 31979 0 0
+/app_dev.php/_wdt/569dc5 1 31976 0 0
+/app_dev.php/_wdt/4d1f15 1 31975 0 0
+/app_dev.php/_wdt/a08e82 1 31975 0 0
+/app_dev.php/_wdt/bcbeed 1 31975 0 0
+/app_dev.php/_wdt/31d364 1 31975 0 0
+/app_dev.php/_wdt/91111f 1 31979 0 0
+/app_dev.php/_wdt/b639d8 1 31979 0 0
+/app_dev.php/_wdt/0bdcc6 1 31975 0 0
+/app_dev.php/_wdt/acf3d5 1 31979 0 0
+/app_dev.php/_wdt/44e09c 1 31975 0 0
+/app_dev.php/_wdt/f50719 1 31979 0 0
+/app_dev.php/_wdt/197b59 1 33066 0 0
+/app_dev.php/_wdt/64c338 1 31975 0 0
+/app_dev.php/_wdt/090717 1 33303 0 0
+/app_dev.php/_wdt/8d4507 1 31975 0 0
+/app_dev.php/_wdt/c9175d 1 31975 0 0
+/app_dev.php/_wdt/c4dc66 1 31976 0 0
+/app_dev.php/_wdt/2dc81a 1 31975 0 0
+/app_dev.php/_wdt/68932f 1 31977 0 0
+/app_dev.php/_wdt/0d3f52 1 31976 0 0
+/app_dev.php/_wdt/a93d26 1 31975 0 0
+/app_dev.php/_wdt/7e36cc 1 31979 0 0
+/app_dev.php/_wdt/40aba5 1 31979 0 0
+/app_dev.php/_wdt/af94ad 1 31975 0 0
+/app_dev.php/_wdt/fddc1a 1 31979 0 0
+/app_dev.php/_wdt/4d75ec 1 31979 0 0
+/app_dev.php/_wdt/1395cd 1 33084 0 0
+/app_dev.php/_wdt/d66e2a 1 31975 0 0
+/app_dev.php/_wdt/63d3ba 1 31976 0 0
+/app_dev.php/_wdt/7782df 1 31975 0 0
+/app_dev.php/_wdt/d9899f 1 31975 0 0
+/app_dev.php/_wdt/51dbb2 1 31976 0 0
+/app_dev.php/_wdt/6c0124 1 31976 0 0
+/app_dev.php/_wdt/c07f86 1 31976 0 0
+/app_dev.php/_wdt/4a8ab8 1 31979 0 0
+/app_dev.php/_wdt/421f5f 1 31975 0 0
+/app_dev.php/_wdt/84928c 1 31975 0 0
+/app_dev.php/_wdt/fe3bb1 1 31975 0 0
+/app_dev.php/_wdt/856bdb 1 31975 0 0
+/app_dev.php/_wdt/b25dda 1 31979 0 0
+/app_dev.php/_wdt/a9f1e0 1 31975 0 0
+/app_dev.php/_wdt/c6874d 1 31975 0 0
+/app_dev.php/_wdt/febb99 1 31976 0 0
+/app_dev.php/_wdt/e3b85f 1 31975 0 0
+/app_dev.php/_wdt/81a105 1 31975 0 0
+/app_dev.php/_wdt/ba4d28 1 31975 0 0
+/app_dev.php/_wdt/70f3e8 1 31976 0 0
+/app_dev.php/_wdt/719079 1 31975 0 0
+/app_dev.php/_wdt/0731dd 1 33043 0 0
+/app_dev.php/_wdt/8a4f15 1 31975 0 0
+/app_dev.php/_wdt/896d65 1 31975 0 0
+/app_dev.php/_wdt/9b0ed8 1 31975 0 0
+/app_dev.php/_wdt/bf083c 1 31975 0 0
+/app_dev.php/_wdt/c1aa05 1 31979 0 0
+/app_dev.php/_wdt/5e60df 1 31900 0 0
+/app_dev.php/_wdt/50f4ae 1 31979 0 0
+/app_dev.php/_wdt/9791ba 1 33043 0 0
+/app_dev.php/_wdt/4a5f09 1 31975 0 0
+/app_dev.php/_wdt/7d9fe9 1 31975 0 0
+/app_dev.php/_wdt/79b947 1 31975 0 0
+/app_dev.php/_wdt/c99261 1 31976 0 0
+/app_dev.php/_wdt/a5e264 1 31975 0 0
+/app_dev.php/_wdt/7e46f1 1 31975 0 0
+/app_dev.php/_wdt/8c0cae 1 31975 0 0
+/app_dev.php/_wdt/c5061e 1 31975 0 0
+/app_dev.php/_wdt/517746 1 31977 0 0
+/app_dev.php/_wdt/b1bcd8 1 31975 0 0
+/app_dev.php/_wdt/5bcb67 1 31975 0 0
+/app_dev.php/_wdt/5cc925 1 31975 0 0
+/app_dev.php/_wdt/c9511f 1 31975 0 0
+/app_dev.php/_wdt/3b8773 1 31977 0 0
+/app_dev.php/_wdt/16d93d 1 31975 0 0
+/app_dev.php/_wdt/da3c9d 1 31976 0 0
+/app_dev.php/_wdt/4cc71e 1 31979 0 0
+/app_dev.php/_wdt/9621f9 1 31975 0 0
+/app_dev.php/_wdt/e70a70 1 31979 0 0
+/app_dev.php/_wdt/59cbdf 1 31975 0 0
+/app_dev.php/_wdt/8f5a95 1 33043 0 0
+/app_dev.php/_wdt/05bcf4 1 31979 0 0
+/app_dev.php/_wdt/acbcf2 1 31977 0 0
+/app_dev.php/_wdt/be910c 1 31979 0 0
+/app_dev.php/_wdt/8454a9 1 31975 0 0
+/app_dev.php/_wdt/b84771 1 31975 0 0
+/app_dev.php/_wdt/4814e8 1 31975 0 0
+/app_dev.php/_wdt/282668 1 31976 0 0
+/app_dev.php/_wdt/d5ec27 1 31979 0 0
+/app_dev.php/_wdt/56efa3 1 31975 0 0
+/app_dev.php/_wdt/8bf25a 1 31979 0 0
+/app_dev.php/_wdt/3080bf 1 31975 0 0
+/app_dev.php/_wdt/b1f5f5 1 31979 0 0
+/app_dev.php/_wdt/72eee5 1 31975 0 0
+/app_dev.php/_wdt/801847 1 31975 0 0
+/app_dev.php/_wdt/5052d4 1 31975 0 0
+/app_dev.php/_wdt/fcf0cf 1 31975 0 0
+/app_dev.php/_wdt/65fa62 1 31975 0 0
+/app_dev.php/_wdt/f67749 1 31977 0 0
+/app_dev.php/_wdt/bf7135 1 31975 0 0
+/app_dev.php/_wdt/d61b1a 1 31975 0 0
+/app_dev.php/_wdt/21dea6 1 31975 0 0
+/app_dev.php/_wdt/c27818 1 31979 0 0
+/app_dev.php/_wdt/8fe5fa 1 31979 0 0
+/app_dev.php/_wdt/fba562 1 31975 0 0
+/app_dev.php/_profiler/b1efe4 1 110741 0 0
+/app_dev.php/_wdt/09b08f 1 33126 0 0
+/app_dev.php/_wdt/d282cc 1 31979 0 0
+/app_dev.php/_wdt/9a98b9 1 31977 0 0
+/app_dev.php/_wdt/2411e7 1 31979 0 0
+/app_dev.php/_wdt/018712 1 31979 0 0
+/app_dev.php/_wdt/8943c7 1 31979 0 0
+END_SIDER

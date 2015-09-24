@@ -1,0 +1,14 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: symfony
+    database_user: root
+    database_password: null
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: ebe5ead682f23a33db0491b063bb1bcb5bc4a714
+    instagram_api_client_id: 25a2f0780ed642b489f9411783cc17cf
+    instagram_api_client_secret: 09c9c6f55469419fa857b90723512b30

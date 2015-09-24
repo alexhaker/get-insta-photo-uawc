@@ -1,0 +1,39 @@
+#insta-user{
+	width: 600px;
+}
+
+.usr-img {
+	width: 100px;
+	float: left;
+	margin-right: 10px;
+}
+.usr-img img{
+	width: 100px;
+}
+
+.usr-name {
+	float: left;
+}
+
+#search-user-box {
+	float: left;
+}
+
+#select-source-box{
+	float: left;
+	margin-left: 30px;
+}
+
+#photo-source{
+	width: 150px;
+}
+
+#photos{
+	margin-top: 10px;
+}
+
+#photos .thumb {
+	width: 150px;
+	height: 150px;
+	margin-left: 2px
+}
